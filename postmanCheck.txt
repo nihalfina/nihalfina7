@@ -1,0 +1,46 @@
+
+// mobile phone
+{
+    "Number": "Samsung S22 Ultra",
+    "price": 150000,
+    "discount": "5",
+    "Warranty": "2 Years Bin-hindi or Samsung Warranty",
+    "quantity": 25,
+    "rating": "5",
+    "Performance": "Snapdragon 890",
+    "Display": "6.43 inchs (16.33 cm)",
+    "RearCamera": "64 MP + 8 MP + 2 MP",
+    "FrontCamera": "16 MP",
+    "Battery": "5000 mAh",
+    "Storage": "128 GB, 256 GB, 512 GB",
+    "Benchmarks": "Samsung S22 Ultra Bench Mark",
+    "LaunchDate": "12-12-2020",
+    "OperatingSystem": "Android v12",
+    "CustomUI": "Oxygen OS",
+    "Chipset": "Qualcomm Snapdragon 695",
+    "Cpu": "Octa core (2.2 GHz, Dual core, Kryo 660 + 1.7 GHz, Hexa Core, Kryo 660)",
+    "Architecture": "64 bit",
+    "Fabrication": "6 nm",
+    "Graphics": "Adreno 619",
+    "Ram": "6 GB, 8 GB, 12 GB",
+    "DisplayType": "Fluid AMOLED",
+    "ScreenSize": "6.59 inch (16.74 cm)",
+    "Resolution": "1080 x 2412 pixels",
+    "AspectRatio": "20:9",
+    "PixelDensity": "409 ppi",
+    "ScreenProtection:": "Corning Gorilla Glass v5,",
+    "TouchScreen": "YES",
+    "Dimensions": "Height: 160.6 mm, Width: 73.2 mm, Thickness: 7.8 mm",
+    "Weight": "195 grams",
+    "BuildMaterial": "Metal",
+    "Colours": "White, Red, Green, Blue, Black",
+    "Settings": "Exposure compensation, ISO control",
+    "Network": "4G, 5G and Fast WiFi",
+    "FingerprintSensor": "YES",
+    "FaceIDSensor": "YES",
+    "categoryName": "MOBILE PHONES",
+    "brandName": "SAMSUNG"
+}
+
+mongodb+srv://nihalelton:test123@cluster0.pypre.mongodb.net/e_commerce
+mongodb+srv://nihalelton:<password>@cluster0.pypre.mongodb.net/e_commerce

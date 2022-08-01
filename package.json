@@ -1,0 +1,42 @@
+{
+  "name": "rough",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "corn": "^0.0.1",
+    "cron": "^2.0.0",
+    "cron-schedule": "^3.0.6",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "http-errors": "^2.0.0",
+    "joi-password": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mime-types": "^2.1.35",
+    "moment": "^2.29.4",
+    "mongoose": "^6.4.1",
+    "mongoose-auto-increment": "^5.0.1",
+    "mongoose-sequence-plugin": "^1.0.5",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "node-cron": "^3.0.1",
+    "node-fetch": "^3.2.8",
+    "nodemailer": "^6.7.6",
+    "nodemon": "^2.0.18",
+    "uuid": "^8.3.2",
+    "xlsx": "^0.18.5"
+  }
+}
